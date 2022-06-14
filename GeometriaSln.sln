@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriaAPI", "GeometriaAPI\GeometriaAPI.csproj", "{8A7C1CC8-78DA-44A8-99A7-2E49243FA146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriaAPITest", "GeometriaAPITest\GeometriaAPITest.csproj", "{C1640D2A-B998-41C9-AE3B-9F368D96912B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriaTest", "GeometriaTest\GeometriaTest.csproj", "{19BB7A1F-B8FB-42D4-BFC1-4713C64D3115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7C1CC8-78DA-44A8-99A7-2E49243FA146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7C1CC8-78DA-44A8-99A7-2E49243FA146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7C1CC8-78DA-44A8-99A7-2E49243FA146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7C1CC8-78DA-44A8-99A7-2E49243FA146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1640D2A-B998-41C9-AE3B-9F368D96912B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1640D2A-B998-41C9-AE3B-9F368D96912B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1640D2A-B998-41C9-AE3B-9F368D96912B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1640D2A-B998-41C9-AE3B-9F368D96912B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BB7A1F-B8FB-42D4-BFC1-4713C64D3115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BB7A1F-B8FB-42D4-BFC1-4713C64D3115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BB7A1F-B8FB-42D4-BFC1-4713C64D3115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BB7A1F-B8FB-42D4-BFC1-4713C64D3115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
